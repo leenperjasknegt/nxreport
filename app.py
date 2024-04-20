@@ -8,7 +8,7 @@ import os
 # Variables to change
 ip_address = "localhost"
 login = "admin"
-password = "Jasfien007@"
+password = "password"
 
 # Function to fetch camera IDs and names
 def get_camera_ids_and_names():
